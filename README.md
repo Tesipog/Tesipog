@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Krishna Sai</h1>
 <h3 align="center">A passionate AI & ML,Python Programmer, Android developer from India</h3>
